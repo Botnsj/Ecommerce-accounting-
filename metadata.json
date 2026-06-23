@@ -1,0 +1,6 @@
+{
+  "name": "Tally SaaS",
+  "description": "Ecommerce Accounting + Inventory Management System with multi-warehouse tracking, GST invoicing, and real-time dashboard analytics",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
